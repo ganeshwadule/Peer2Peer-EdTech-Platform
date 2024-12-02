@@ -25,27 +25,16 @@ This is a **Peer-to-Peer EdTech Platform** that connects learners with volunteer
 
 ### Backend
 - **Spring Boot**: For building robust APIs and managing business logic.
-- **MongoDB/PostgreSQL**: For storing user data, sessions, and ratings.
+- **MongoDB**: For storing user data, sessions, and ratings.
 - **Spring Security**: For handling user authentication and authorization.
 - **WebSocket**: For real-time notifications and chat.
 
 ### Other Tools
-- **Twilio or WebRTC**: For integrating live video calling functionality.
+- **] WebRTC**: For integrating live video calling functionality.
 - **Node.js**: For running WebSocket server (if separate from Spring Boot).
 - **ElasticSearch**: For optimized, fast searching of topics and tutors.
-- **Firebase/SMTP**: For email notifications and user management.
+- **Firebase**: For email notifications and user management.
 
 ---
 
-## Setup & Installation
 
-### Prerequisites
-- **Java 8+** for Spring Boot
-- **Node.js & npm** for ReactJS
-- **MongoDB/PostgreSQL** for database
-- **Twilio/Other Video Service API** for live video calling (if using Twilio)
-- **Maven** or **Gradle** for managing dependencies (Spring Boot)
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/peer-to-peer-edtech-platform.git
