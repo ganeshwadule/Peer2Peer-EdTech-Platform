@@ -30,7 +30,7 @@ This is a **Peer-to-Peer EdTech Platform** that connects learners with volunteer
 - **WebSocket**: For real-time notifications and chat.
 
 ### Other Tools
-- **] WebRTC**: For integrating live video calling functionality.
+- ** WebRTC**: For integrating live video calling functionality.
 - **Node.js**: For running WebSocket server (if separate from Spring Boot).
 - **ElasticSearch**: For optimized, fast searching of topics and tutors.
 - **Firebase**: For email notifications and user management.
